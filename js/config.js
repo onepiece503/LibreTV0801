@@ -137,21 +137,21 @@ const API_SITES = {
     //     name: 'jkun资源',
     //     adult: true
     // },
-     bwzy: {
-         api: 'https://api.bwzyz.com/api.php/provide/vod',
-        name: '百万资源',
-      adult: true
-   },
-     souav: {
-         api: 'https://api.souavzyw.net/api.php/provide/vod',
-         name: 'souav资源',
-         adult: true
-     },
-     r155: {
-         api: 'https://155api.com/api.php/provide/vod',
-         name: '155资源',
-         adult: true
-     },
+    // bwzy: {
+    //     api: 'https://api.bwzyz.com/api.php/provide/vod',
+    //    name: '百万资源',
+    //  adult: true
+   //   },
+    // souav: {
+    //     api: 'https://api.souavzyw.net/api.php/provide/vod',
+    //     name: 'souav资源',
+    //     adult: true
+    // },
+    // r155: {
+    //     api: 'https://155api.com/api.php/provide/vod',
+    //     name: '155资源',
+    //     adult: true
+    // },
     // lsb: {
     //     api: 'https://apilsbzy1.com',
     //     name: 'lsb资源',
